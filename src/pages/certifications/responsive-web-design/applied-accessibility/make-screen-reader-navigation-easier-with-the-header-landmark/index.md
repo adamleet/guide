@@ -3,8 +3,5 @@ title: Make Screen Reader Navigation Easier with the header Landmark
 ---
 ## Make Screen Reader Navigation Easier with the header Landmark
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/certifications/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-header-landmark/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+header is meant for use in the body tag of your HTML document. This is different from the head element, which contains the page's title, meta information, etc.
